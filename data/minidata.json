@@ -1,0 +1,98 @@
+[
+    {
+        "guid": "ynat-v1_dev_00000",
+        "title": "5억원 무이자 융자는 되고 7천만원 이사비는 안된다",
+        "predefined_news_category": "경제",
+        "label": "사회",
+        "annotations": {
+            "annotators": [
+                "18",
+                "03",
+                "15"
+            ],
+            "annotations": {
+                "first-scope": [
+                    "사회",
+                    "사회",
+                    "경제"
+                ],
+                "second-scope": [
+                    "해당없음",
+                    "해당없음",
+                    "사회"
+                ],
+                "third-scope": [
+                    "해당없음",
+                    "해당없음",
+                    "생활문화"
+                ]
+            }
+        },
+        "url": "https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=101&sid2=260&oid=001&aid=0009563542",
+        "date": "2017.09.21. 오후 5:09"
+    },
+    {
+        "guid": "ynat-v1_dev_00001",
+        "title": "왜 수소충전소만 더 멀리 떨어져야 하나 한경연 규제개혁 건의",
+        "predefined_news_category": "경제",
+        "label": "사회",
+        "annotations": {
+            "annotators": [
+                "11",
+                "14",
+                "13"
+            ],
+            "annotations": {
+                "first-scope": [
+                    "정치",
+                    "사회",
+                    "사회"
+                ],
+                "second-scope": [
+                    "사회",
+                    "해당없음",
+                    "해당없음"
+                ],
+                "third-scope": [
+                    "경제",
+                    "해당없음",
+                    "해당없음"
+                ]
+            }
+        },
+        "url": "https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=101&sid2=261&oid=001&aid=0010476386",
+        "date": "2018.11.19. 오전 11:53"
+    },
+    {
+        "guid": "ynat-v1_dev_00002",
+        "title": "항응고제 성분 코로나19에 효과…세포실험서 확인",
+        "predefined_news_category": "IT과학",
+        "label": "IT과학",
+        "annotations": {
+            "annotators": [
+                "15",
+                "08",
+                "16"
+            ],
+            "annotations": {
+                "first-scope": [
+                    "IT과학",
+                    "IT과학",
+                    "사회"
+                ],
+                "second-scope": [
+                    "경제",
+                    "해당없음",
+                    "해당없음"
+                ],
+                "third-scope": [
+                    "사회",
+                    "해당없음",
+                    "해당없음"
+                ]
+            }
+        },
+        "url": "https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=228&oid=001&aid=0011608800",
+        "date": "2020.05.14. 오후 2:23"
+    }
+]
